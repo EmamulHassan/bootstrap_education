@@ -1,0 +1,722 @@
+/* COL Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+/*header start*/
+.logo_custom{
+width: 130px;
+}
+nav{
+text-align: right;
+}
+.custom_login{
+	left: 50px;
+}
+.custom_drop {
+left: 0px;
+}
+.custom_form{
+	width: 68%;
+}
+.custom_button{
+width: 32%;
+}
+/*header end*/
+/*banner start*/
+.banner{
+background-color: white;
+background-image: url();
+}
+.banner_header h1{
+margin-top: 50px;
+margin-bottom: 80px;
+font-size: 28px;
+}
+/*banner end*/
+/*kid1 start*/
+.content{
+text-align: center;
+}
+.common_title h1 {
+margin-top: 50px;
+}
+.content h1 {
+margin-top: 10px;
+}
+.content hr {
+margin: 0 auto;
+margin-bottom: 15px;
+}
+.content a img {
+margin-top: 10px;
+margin-bottom: 20px;
+width: 150px;
+}
+.content_img img {
+margin-top: 10px;
+margin-bottom: 30px;
+}
+/*kid1 end*/
+/*kid2 start*/
+.kid2{}
+.common_title h1 {
+margin-top: 30px;
+}
+.kid2_img{}
+.kid2_img img{
+width: 100px;
+margin-top: 10px;
+margin-bottom: 10px;
+}
+.kid2_img h4{
+font-size: 22px;
+margin-bottom: 10px;
+}
+/*kid2 end*/
+/*courses start*/
+.courses
+{
+padding-top: 50px;
+padding-bottom: 40px;
+}
+/*card start*/
+.math_text {
+padding-bottom: 0px;
+}
+.card {
+	width: 80%;
+    margin: 25px auto;
+}
+.custom_btn{
+	width: 80%;
+    margin: 20px auto;
+}
+.profile {
+width: 45px;
+height: 45px;
+}
+/*card end*/
+/*courses end*/
+/*moments start*/
+.moments
+{
+padding-top: 50px;
+padding-bottom: 40px;
+}
+.moments a img {
+margin-top: 10px;
+margin-bottom: 20px;
+width: 150px;
+}
+/*moments end*/
+/*stand start*/
+.stand {
+padding-top: 50px;
+padding-bottom: 20px;
+}
+.stand_img
+{
+text-align: center;
+}
+.stand_img img
+{
+width: 160px;
+}
+.stand_content {
+text-align: center;
+margin-bottom: 20px;
+}
+.stand_content a {
+font-size: 16px;
+}
+.stand_content h1 {
+font-size: 20px;
+padding-top: 10px;
+}
+.stand_content hr
+{
+margin: 5px 0px;
+}
+.c_logos
+{
+margin-bottom: 8px;
+}
+.stand_content p {
+margin-bottom: 5px;
+}
+/*stand end*/
+/*works start*/
+.events
+{
+padding-top: 50px;
+padding-bottom: 30px;
+}
+.works
+{
+padding-top: 50px;
+padding-bottom: 30px;
+}
+.s_work p {
+font-size: 18px;
+}
+.s_work img
+{
+width: 120px;
+}
+/*works end*/
+/*events start*/
+.aug_content {
+margin-bottom: 20px;
+text-align: center;
+}
+.aug_logo img
+{
+width: 25%;
+}
+.event_title {
+margin-bottom: 40px;
+text-align: center !important;
+}
+.event_title hr
+{
+margin:auto;
+}
+.aug_text h1 {
+font-size: 20px;
+}
+.news_body {
+text-align: center;
+}
+.event_title_2 {
+margin-top: 20px;
+margin-bottom: 20px;
+}
+.news_content h1 {
+margin-top: 10px;
+font-size: 22px;
+}
+.news_img img
+{
+width: 200px;
+}
+.news_content hr {
+width: 99%;
+margin-left: 0%;
+}
+/*events end*/
+/*contact us start*/
+.contactus {
+background-image: none;
+background-color: white;
+padding-top: 20px;
+padding-bottom: 30px;
+}
+.main_logo p{
+	text-align: left;
+}
+.part3 p{
+	text-align: left;
+}
+.m_top_20
+{
+margin-top: 30px;
+text-align: center;
+}
+.com_dot h3
+{
+font-size: 20px;
+letter-spacing: 1px
+}
+.main_logo p {
+margin-bottom: 5px;
+}
+.com_dot hr {
+margin: 15px auto;
+}
+.main_logo img
+{
+margin-bottom: 10px;
+width: 180px;
+}
+.main_logo p
+{
+letter-spacing: 0px;
+word-spacing: 0px;
+}
+.part3 p {
+margin-bottom: 5px;
+}
+/*contact us end*/
+/*footer start*/
+.footer_con ul
+{
+text-align: center;
+}
+.footer_con ul li a
+{
+font-size: 16px;
+border: none;
+padding-right: 0px;
+padding-left: 0px;
+}
+.copyright
+{
+text-align: center;
+}
+/*footer end*/
+}
+/* SM Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+/*header start*/
+.logo_custom{
+width: 150px;
+}
+nav{
+text-align: center;
+}
+.custom_login{
+	left: 150px;
+}
+.custom_drop{
+left: 105px;
+}
+/*header end*/
+/*banner start*/
+.banner{
+background-color: white;
+background-image: url();
+}
+.banner_header h1{
+margin-top: 100px;
+margin-bottom: 120px;
+font-size: 40px;
+}
+/*banner end*/
+/*kid1 start*/
+.content{
+text-align: center;
+}
+.common_title h1 {
+margin-top: 80px;
+}
+.content h1 {
+margin-top: 10px;
+}
+.content hr {
+margin: 0 auto;
+margin-bottom: 15px;
+}
+.content a img {
+margin-top: 10px;
+margin-bottom: 50px;
+width: 200px;
+}
+.content_img img {
+margin-top: 10px;
+margin-bottom: 30px;
+}
+/*kid1 end*/
+/*kid2 start*/
+.kid2{}
+.common_title h1 {
+margin-top: 30px;
+}
+.kid2_img{}
+.kid2_img img{
+margin-top: 20px;
+margin-bottom: 10px;
+}
+.kid2_img h4{
+font-size: 22px;
+margin-bottom: 50px;
+}
+/*kid2 end*/
+/*courses start*/
+.courses
+{
+padding-top: 70px;
+padding-bottom: 65px;
+}
+/*card start*/
+.math_text {
+padding-bottom: 0px;
+}
+.card {
+	width: 80%;
+    margin: 25px auto;
+}
+.custom_btn{
+	width: 80%;
+    margin: 20px auto;
+}
+.profile {
+width: 50px;
+height: 50px;
+}
+/*card end*/
+/*courses end*/
+/*moments start*/
+.moments
+{
+padding-top: 70px;
+padding-bottom: 65px;
+}
+.moments a img {
+margin-top: 10px;
+margin-bottom: 20px;
+width: 200px;
+}
+/*moments end*/
+/*stand start*/
+.stand {
+padding-top: 70px;
+padding-bottom: 65px;
+}
+.stand_content {
+margin-bottom: 10px;
+}
+/*stand end*/
+/*works start*/
+.works
+{
+padding-top: 70px;
+padding-bottom: 60px;
+}
+.s_work p {
+font-size: 19px;
+}
+.s_work img
+{
+width: 130px;
+}
+/*works end*/
+/*events start*/
+.events
+{
+padding-top: 70px;
+padding-bottom: 65px;
+}
+.aug_content {
+margin-bottom: 30px;
+text-align: center;
+}
+.event_title {
+margin-bottom: 50px;
+text-align: center !important;
+}
+.event_title hr
+{
+margin:auto;
+}
+.aug_text h1 {
+font-size: 22px;
+}
+.news_body {
+text-align: center;
+}
+.event_title_2 {
+margin-top: 30px;
+margin-bottom: 30px;
+}
+.news_content h1 {
+margin-top: 10px;
+}
+.news_img img
+{
+width: 250px;
+}
+.news_content hr {
+width: 99%;
+margin-left: 0%;
+}
+/*events end*/
+/*contact us start*/
+.contactus {
+background-image: none;
+background-color: white;
+padding-top: 30px;
+padding-bottom: 55px;
+}
+.m_top_20
+{
+margin-top: 30px;
+}
+.com_dot h3
+{
+font-size: 22px;
+}
+.com_dot hr
+{
+width: 55%;
+}
+.main_logo img
+{
+margin-bottom: 10px;
+width: 180px;
+}
+.main_logo p
+{
+letter-spacing: 0px;
+word-spacing: 0px;
+}
+/*contact us end*/
+/*footer start*/
+.footer_con ul
+{
+text-align: center;
+}
+.footer_con ul li a
+{
+font-size: 16px;
+}
+.copyright
+{
+text-align: center;
+}
+/*footer end*/
+}
+/* MD Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+/*header start*/
+.logo_custom{
+width: 150px;
+}
+nav{
+text-align: center;
+}
+.custom_login{
+	left: 245px;
+}
+.custom_drop{
+left: 185px;
+}
+/*header end*/
+/*banner start*/
+.banner_header h1 {
+margin-top: 150px;
+margin-bottom: 180px;
+}
+/*banner end*/
+/*kid1 start*/
+.common_title h1 {
+margin-top: 50px;
+}
+.content h1 {
+margin-top: 10px;
+}
+.content a img {
+margin-top: 10px;
+margin-bottom: 50px;
+}
+.content_img img {
+margin-top: 10px;
+}
+/*kid1 end*/
+/*courses start*/
+.common_title h1 {
+font-size: 26px;
+}
+.courses
+{
+padding-top: 85px;
+padding-bottom: 70px;
+}
+/*card start*/
+.math_text {
+padding-bottom: 0px;
+}
+.card {
+margin-top: 25px;
+}
+/*card end*/
+/*courses end*/
+/*moments start*/
+.moments
+{
+padding-top: 85px;
+padding-bottom: 70px;
+}
+/*moments end*/
+/*stand start*/
+.stand {
+padding-top: 75px;
+padding-bottom: 60px;
+}
+.stand_content {
+margin-bottom: 12px;
+}
+.stand_content p {
+font-family: 'Lato', sans-serif;
+font-weight: 300;
+font-size: 12px;
+color: #333333;
+margin-bottom: 0px;
+}
+.stand_content h1 {
+font-size: 21px;
+padding-top: 9px;
+}
+.stand_content h4 {
+margin-top: 0px;
+}
+.stand_content hr
+{
+margin-bottom: 5px;
+margin-top: 0px;
+}
+.c_logos
+{
+margin-bottom: 2px;
+}
+/*stand end*/
+/*works start*/
+.works
+{
+padding-top: 80px;
+padding-bottom: 60px;
+}
+.s_work p {
+font-size: 19px;
+}
+.s_work img
+{
+width: 130px;
+}
+/*works end*/
+/*events start*/
+.events
+{
+padding-top: 85px;
+padding-bottom: 70px;
+}
+.event_title {
+margin-bottom: 50px;
+}
+.event_title_2
+{
+margin-bottom: 25px !important;
+}
+.aug_text h1 {
+font-size: 18px;
+padding-top: 0px;
+}
+.news_body {
+margin-top: 20px;
+}
+.news_img img{
+/*margin-top: px;*/
+}
+.news_content h1 {
+font-size: 18px;
+}
+.news_content hr {
+margin-bottom: 6px;
+margin-top: 6px;
+}
+.news_content h4 {
+letter-spacing: 0px;
+word-spacing: 0px;
+}
+/*events end*/
+/*contact us start*/
+.contactus {
+background-image: none;
+background-color: white;
+padding-top: 40px;
+padding-bottom: 70px;
+}
+.m_top_20
+{
+margin-top: 40px;
+}
+.com_dot h3
+{
+font-size: 22px;
+}
+.com_dot hr
+{
+width: 55%;
+}
+/*contact us end*/
+/*footer start*/
+.footer_con ul
+{
+text-align: center;
+}
+.footer_con ul li a
+{
+font-size: 16px;
+}
+.copyright
+{
+text-align: center;
+}
+/*footer end*/
+}
+/* LG Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+/*header start*/
+.menu_custom ul li a{
+padding: 0 15px !important;
+}
+/*header end*/
+/*banner start*/
+.banner_header h1 {
+margin-top: 200px;
+margin-bottom: 230px;
+}
+/*banner end*/
+/*courses start*/
+.rowline_img{}
+.rowline_img img{
+width: 80%;
+}
+/*courses end*/
+/*stand start*/
+.stand {
+padding-top: 90px;
+padding-bottom: 90px;
+}
+/*stand end*/
+/*event start*/
+.aug_text h1 {
+font-size: 22px;
+padding-top: 0px;
+}
+.news_content h1 {
+font-size: 22px;
+letter-spacing: 1px;
+}
+.news_body {
+margin-top: 25px;
+}
+/*event end*/
+/*contact us start*/
+.contactus {
+background-image: none;
+background-color: white;
+padding-top: 90px;
+padding-bottom: 80px;
+}
+/*contact us end*/
+/*footer start*/
+.footer_con a {
+font-size: 14px;
+padding-right: 11px;
+padding-left: 9px;
+}
+.copyright p {
+font-size: 13px;
+
+}
+/*footer end*/
+}
+/* XL Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+.banner_header h1 {
+margin-top: 330px;
+margin-bottom: 370px;
+}
+.contactus {
+padding-top: 168px;
+padding-bottom: 60px;
+}
+}
