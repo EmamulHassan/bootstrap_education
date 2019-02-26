@@ -1,2 +1,2 @@
 # bootstrap_education
-practice day 18
+https://emamulhassan.github.io/bootstrap_education/
