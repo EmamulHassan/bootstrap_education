@@ -36,6 +36,7 @@ font-size: 28px;
 text-align: center;
 }
 .common_title h1 {
+font-size: 24px;
 margin-top: 50px;
 }
 .content h1 {
@@ -58,6 +59,7 @@ margin-bottom: 30px;
 /*kid2 start*/
 .kid2{}
 .common_title h1 {
+font-size: 24px;
 margin-top: 30px;
 }
 .kid2_img{}
